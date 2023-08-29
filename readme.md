@@ -30,5 +30,5 @@ All of the files for this assignment will be found in the GitHub classroom ***pr
 
 ## Submission
 You need to submit the following for this assignment:
-* Make sure all of your changes are committed and pushed to the `main` branch of your **prove-04-kaychoro** repository
+* Make sure all of your changes are committed and pushed to the `main` branch of your **prove-04-watsonlr** repository
 * Submit a link to your repository in I-Learn
